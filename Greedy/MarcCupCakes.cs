@@ -3,6 +3,11 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
+/// <summary>
+/// Marc's CupCakes from Greedy Algorithm Hacker Rank solution.
+/// Author: Jitendra Selvam
+/// </summary>
+
 namespace ConsoleApp9
 {
     class MarcCupCakes
