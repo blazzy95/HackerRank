@@ -3,6 +3,11 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
+/// <summary>
+/// Simple text editor Solution Hacker rank
+/// Author: Jitendra Selvam
+/// </summary>
+
 namespace StackHackerRank1
 {
     class undoOperations
