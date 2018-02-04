@@ -38,7 +38,7 @@ namespace StackBalancedBrackets
         /// Function to check the brackets
         /// </summary>
         /// <param name="s"></param>
-        /// <returns></returns>
+        /// <returns>"YES" / "NO"</returns>
         static string isBalanced(char[] s)
         {
             foreach (char bracket in s)
