@@ -4,6 +4,10 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
+/// <summary>
+/// Hacker rank solution performing query operations 1.Insert 2.Pop 3. Print max element
+/// Author: Jitendra Selvam
+/// </summary>
 namespace StackHackerRank
 {
     class MaximumElement

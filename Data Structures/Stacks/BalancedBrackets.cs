@@ -3,6 +3,11 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
+/// <summary>
+/// Hacker rank solution for checking if brackets are balanced.
+/// Author: Jitendra Selvam
+/// </summary>
+
 namespace StackBalancedBrackets
 {
     class BalancedBrackets
@@ -29,6 +34,11 @@ namespace StackBalancedBrackets
             Console.ReadKey();
         }
 
+        /// <summary>
+        /// Function to check the brackets
+        /// </summary>
+        /// <param name="s"></param>
+        /// <returns></returns>
         static string isBalanced(char[] s)
         {
             foreach (char bracket in s)
